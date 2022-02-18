@@ -13,7 +13,7 @@ After a brief explanation of how to use Oxygen, I then took notes on Google Docs
  
 Opening Oxygen was very daunting because I saw tons of random letters, symbols, numbers, etc., and I had no idea what any of it meant. I pushed this worry aside and just focused on my professor explaining how to navigate Oxygen. After I began inputting my text along with the tags, I was frustrated because the red square in the right-hand corner was still red. It turns out, I had accidently deleted the “body” closing tag, which threw off all the work I had done. I was hoping this was the only mistake I made, but the square was still red. I began to double check the work I had completed and realized that the quotes I pasted around “page number 3” into Oxygen might be the problem. I deleted the quotation marks and put new ones around hoping to solve the problem. To my relief, the square turned green, and I felt triumphant!
  
-![Oxygen Code Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/oxygencode.jpg)
+![Oxygen Code Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/oxygencode(1).jpg)
  
 Although I was originally intimidated by this project, I feel that I learned a lot of valuable skills I would normally shy away from. Along with an increased knowledge of tags and coding, I was surprised by how simple Oxygen was once I got a feel for it. This project made me step out of my comfort zone, but it is something I am grateful for, because I might end up using these skills for a future class, job, or career.
 
