@@ -1,7 +1,7 @@
 
-### Oxygen Reflection
+#### Oxygen Reflection
  
-### Navigating TEI
+#### Navigating TEI
  
 This was my first time coding using Oxygen software that has eXtensible Markup Language (XML) which also uses Text Encoding Initiative (TEI). I was given a passage from “Dracula’s Guest: And Other Weird Stories,” published in 1914 by Bram Stoker that began around page 3. I analyzed and marked up this passage so that I could easily transition my work to Oxygen. In the scene I was given, the narrator is speaking with the German man, Johann and is seeking to argue with him but finds language to be a barrier throughout their conversation.  
  
