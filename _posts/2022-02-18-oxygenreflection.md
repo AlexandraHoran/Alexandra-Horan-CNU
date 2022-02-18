@@ -9,7 +9,7 @@ Similarly, a barrier I faced also dealt with language but rather, “markup lang
  
 After a brief explanation of how to use Oxygen, I then took notes on Google Docs about my passage. Anything like quotations, Em-dashes, paragraph beginnings/endings, I made note of. This helped me visually see what exactly I would be encoding, and it was super helpful when I transitioned my text into Oxygen, because then I could look back at my notes.
  
-Enter photo of Google Doc
+![Google Doc Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/googledocpic.jpg)
  
 Opening Oxygen was very daunting because I saw tons of random letters, symbols, numbers, etc., and I had no idea what any of it meant. I pushed this worry aside and just focused on my professor explaining how to navigate Oxygen. After I began inputting my text along with the tags, I was frustrated because the red square in the right-hand corner was still red. It turns out, I had accidently deleted the “body” closing tag, which threw off all the work I had done. I was hoping this was the only mistake I made, but the square was still red. I began to double check the work I had completed and realized that the quotes I pasted around “page number 3” into Oxygen might be the problem. I deleted the quotation marks and put new ones around hoping to solve the problem. To my relief, the square turned green, and I felt triumphant!
  
