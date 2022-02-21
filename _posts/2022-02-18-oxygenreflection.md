@@ -3,7 +3,7 @@
  
 ## Navigating TEI
  
-This was my first time coding using Oxygen software that has eXtensible Markup Language (XML) which also uses Text Encoding Initiative (TEI). I was given a passage from “Dracula’s Guest: And Other Weird Stories,” published in 1914 by Bram Stoker that began around page 3. I analyzed and marked up this passage so that I could easily transition my work to Oxygen. In the scene I was given, the narrator is speaking with the German man, Johann and is seeking to argue with him but finds language to be a barrier throughout their conversation.  
+This was my first time coding using Oxygen software that has eXtensible Markup Language (XML) which also uses Text Encoding Initiative (TEI). I was given a passage from “Dracula’s Guest: And Other Weird Stories,” published in 1914 by Bram Stoker that began around page 3. I analyzed and marked up this passage so that I could easily transition my work to Oxygen. In the scene I was given, the narrator is speaking with the German man, Johann, and is seeking to argue with him but finds language to be a barrier throughout their conversation.  
  
 Similarly, a barrier I faced also dealt with language but rather, “markup language.” Learning tags and how to use them through Oxygen was quite challenging. Going into this assignment I was extremely nervous because the idea of coding sounds like it has many steps. I felt relieved when my professor gave us a handy sheet listing all the tags potentially used in our passage. This was extremely helpful, and I thought of it almost like a dictionary for understanding the markup language. I also learned new terms that I have never heard of before like an “em-dash.”
  
