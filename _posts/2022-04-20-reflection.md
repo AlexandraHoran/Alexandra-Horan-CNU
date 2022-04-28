@@ -12,7 +12,7 @@ It did not change as drastically as I thought it would, but it ended up being mo
 
 ### Helpful assignments/readings
 
-A homework assignment that was beneficial to understanding DH was reading reviews on past DH projects.     https://reviewsindh.pubpub.org/      I really enjoyed this because it showed me how broad and diverse projects are. Some reviews were more history based whereas others involved topics not necessarily seen in textbooks.
+A homework assignment that was beneficial to understanding DH was reading [reviews on past DH projects.](https://reviewsindh.pubpub.org/) I really enjoyed this because it showed me how broad and diverse projects are. Some reviews were more history based whereas others involved topics not necessarily seen in textbooks.
 
 Along with exploring all the reviews, I was also introduced to different styles of DH projects. Some of the ones I saw on the website were interactive maps, digital archives, digital libraries, and much more!
 
