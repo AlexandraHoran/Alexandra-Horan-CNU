@@ -34,6 +34,8 @@ Not only did I end up liking the project, but it helped me understand DH in its 
 
 I feel that this class has taught me how to be a better writer, in ways I least expected. First, peer review was extremely helpful in my growth. My peers usually found things I overlooked, like weirdly written sentences or improper grammar. I really appreciated their feedback because it helped me be more aware for future writing assignments. 
 
+![Twitter Post Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/twitterpost.jpg)
+
 I began to look for those awkward sentences and fix them before peer review. I also began reading my work aloud to catch any errors or spots that just didn’t flow right. 
 
 Peer review is something that I’m grateful Dr. Stover included in our class because it helped me grow as a writer.
