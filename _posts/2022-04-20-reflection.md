@@ -4,9 +4,11 @@
 
 As I reflect on this course, I think of how much I have grown in my knowledge of digital humanities (DH). Before starting the class, I had no idea what the term meant. My definition at the beginning of the semester was after we learned a brief explanation of what DH is in class. Here is that definition below that I came up with:
 
+![Google Doc Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/googledocpic.jpg) 
 
 Just the other week, we revisited this first class activity we did and I had to recreate my definition for DH. Here is my new definition after taking the course:
 
+![Google Doc Picture](https://alexandrahoran.github.io/Alexandra-Horan-CNU/images/googledocpic.jpg)
 
 It did not change as drastically as I thought it would, but it ended up being more polished. I also understand what a DH project looks like which helps me understand my definition even better. 
 
